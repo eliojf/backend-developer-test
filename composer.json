@@ -1,0 +1,17 @@
+{
+    "name": "wiq/wiq",
+    "description": "Wiq backend developer test",
+    "type": "project",
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "authors": [
+        {
+            "name": "Jean-François ELIO",
+            "email": "eliojf@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
